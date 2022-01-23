@@ -1,0 +1,26 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 23 Jan 2022 17:52:01 GMT
+ */
+
+:root {
+  --color-basic-black: #000000;
+  --color-basic-white: #ffffff;
+  --color-primary-100: #f9d9b4;
+  --color-primary-500: #e83f0a;
+  --color-gray-100: #edeff1;
+  --color-gray-500: #c2c4c6;
+  --color-cta-background-primary-default: #e83f0a;
+  --color-cta-text-primary-default: #ffffff;
+  --color-inputfield-background-default: #edeff1;
+  --color-inputfield-border-default: #c2c4c6;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 36px;
+  --spacing-xs: 4px;
+  --radii-round: 100%;
+  --radii-default: 8px;
+  --font-heading-size-one: 48px;
+  --font-heading-weight-one: medium;
+}

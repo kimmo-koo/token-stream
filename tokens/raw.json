@@ -1,90 +1,26 @@
 {
   "global": {
-    "color": {
-      "basic": {
-        "black": {
-          "value": "#000000",
-          "type": "color"
-        },
-        "white": {
-          "value": "#ffffff",
-          "type": "color"
-        }
+    "spacing": {
+      "sm": {
+        "value": "8px",
+        "type": "spacing"
       },
-      "primary": {
-        "100": {
-          "value": "orange",
-          "type": "color"
-        },
-        "500": {
-          "value": "#3C9F9B",
-          "type": "color"
-        }
+      "md": {
+        "value": "16px",
+        "type": "spacing"
       },
-      "gray": {
-        "100": {
-          "value": "#EDEFF1",
-          "type": "color"
-        },
-        "500": {
-          "value": "#d2d4d6",
-          "type": "color"
-        },
-        "900": {
-          "value": "#222426",
-          "type": "color"
-        }
+      "lg": {
+        "value": "24px",
+        "type": "spacing"
       },
-      "cta": {
-        "background": {
-          "primary": {
-            "default": {
-              "value": "{color.primary.500}",
-              "type": "color",
-              "description": "Background color for primary CTAs."
-            }
-          }
-        },
-        "text": {
-          "primary": {
-            "default": {
-              "value": "#ffffff",
-              "description": "Text color for primary CTAs.",
-              "type": "color"
-            }
-          }
-        }
+      "xl": {
+        "value": "36px",
+        "type": "spacing"
       },
-      "inputfield": {
-        "background": {
-          "default": {
-            "value": "{color.gray.100}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{color.gray.500}",
-            "type": "color"
-          }
-        }
+      "xs": {
+        "value": "4px",
+        "type": "spacing"
       }
-    },
-    "space-sm": {
-      "value": "8px",
-      "type": "spacing"
-    },
-    "space-md": {
-      "value": "16px",
-      "type": "spacing"
-    },
-    "space-lg": {
-      "value": "24px",
-      "type": "spacing"
-    },
-    "space-xl": {
-      "value": "36px",
-      "type": "spacing"
     },
     "radii": {
       "round": {
@@ -123,9 +59,17 @@
       "value": "36px",
       "type": "fontSizes"
     },
-    "space-xs": {
-      "value": "4px",
-      "type": "spacing"
+    "color-neutral-100": {
+      "value": "#F7F8F8",
+      "type": "color"
+    },
+    "color-neutral-500": {
+      "value": "#C4C9CA",
+      "type": "color"
+    },
+    "color-neutral-900": {
+      "value": "#444A4B",
+      "type": "color"
     }
   },
   "brand-one": {

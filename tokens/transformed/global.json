@@ -28,31 +28,25 @@
     "value": "36px",
     "type": "fontSizes"
   },
-  "color-neutral-100": {
-    "value": "#F7F8F8",
-    "type": "color"
-  },
-  "color-neutral-500": {
-    "value": "#C4C9CA",
-    "type": "color"
-  },
-  "color-neutral-900": {
-    "value": "#444A4B",
-    "type": "color"
-  },
-  "radii-round": {
-    "value": "8px",
-    "type": "borderRadius"
-  },
-  "space-sm": {
-    "value": "8px",
-    "type": "spacing"
-  },
-  "space-md": {
-    "value": "12px",
-    "type": "spacing"
-  },
   "color": {
+    "neutral": {
+      "100": {
+        "value": "#F7F8F8",
+        "type": "color"
+      },
+      "500": {
+        "value": "#C4C9CA",
+        "type": "color"
+      },
+      "700": {
+        "value": "#8C9597",
+        "type": "color"
+      },
+      "900": {
+        "value": "#444A4B",
+        "type": "color"
+      }
+    },
     "textinput": {
       "background": {
         "default": {
@@ -82,6 +76,18 @@
       }
     }
   },
+  "radii-round": {
+    "value": "8px",
+    "type": "borderRadius"
+  },
+  "space-sm": {
+    "value": "8px",
+    "type": "spacing"
+  },
+  "space-md": {
+    "value": "12px",
+    "type": "spacing"
+  },
   "space-lg": {
     "value": "20px",
     "type": "spacing"
@@ -99,9 +105,5 @@
         }
       }
     }
-  },
-  "color-neutral-700": {
-    "value": "#8C9597",
-    "type": "color"
   }
 }

@@ -6,18 +6,18 @@
   --font-size-md: 18px;
   --font-size-lg: 24px;
   --font-size-xl: 36px;
-  --color-neutral-100: #F7F8F8;
-  --color-neutral-500: #C4C9CA;
-  --color-neutral-900: #444A4B;
-  --radii-round: 8px;
-  --space-sm: 8px;
-  --space-md: 12px;
+  --color-neutral-100: #f7f8f8;
+  --color-neutral-500: #c4c9ca;
+  --color-neutral-700: #8c9597;
+  --color-neutral-900: #444a4b;
   --color-textinput-background-default: #f7f8f8;
   --color-textinput-text-default: #444a4b;
   --color-textinput-border-default: #f7f8f8;
   --color-label-text-default: #444a4b;
+  --radii-round: 8px;
+  --space-sm: 8px;
+  --space-md: 12px;
   --space-lg: 20px;
   --space-xl: 24px;
   --font-label-size-default: 15px;
-  --color-neutral-700: #8C9597;
 }

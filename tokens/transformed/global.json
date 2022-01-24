@@ -47,62 +47,10 @@
         "type": "color"
       }
     },
-    "textinput": {
-      "background": {
-        "default": {
-          "value": "#F7F8F8",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#ffffff",
-          "type": "color"
-        }
-      },
-      "text": {
-        "default": {
-          "value": "#8C9597",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#444A4B",
-          "type": "color"
-        }
-      },
-      "border": {
-        "default": {
-          "value": "#F7F8F8",
-          "type": "color"
-        },
-        "hover": {
-          "value": "#C4C9CA",
-          "type": "color"
-        }
-      }
-    },
-    "label": {
-      "text": {
-        "default": {
-          "value": "#444A4B",
-          "type": "color"
-        }
-      }
-    },
-    "cta": {
-      "background": {
-        "primary": {
-          "default": {
-            "value": "#1F71BC",
-            "type": "color"
-          }
-        }
-      },
-      "text": {
-        "primary": {
-          "default": {
-            "value": "#ffffff",
-            "type": "color"
-          }
-        }
+    "primary": {
+      "500": {
+        "value": "#1F71BC",
+        "type": "color"
       }
     }
   },
@@ -133,6 +81,14 @@
           "value": "15px",
           "type": "fontSizes"
         }
+      }
+    }
+  },
+  "cta": {
+    "background": {
+      "primary": {
+        "value": "#1F71BC",
+        "type": "color"
       }
     }
   }

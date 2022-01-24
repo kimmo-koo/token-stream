@@ -37,21 +37,25 @@
         "type": "borderRadius"
       }
     },
-    "font-size-sm": {
-      "value": "15px",
-      "type": "fontSizes"
-    },
-    "font-size-md": {
-      "value": "18px",
-      "type": "fontSizes"
-    },
-    "font-size-lg": {
-      "value": "24px",
-      "type": "fontSizes"
-    },
-    "font-size-xl": {
-      "value": "36px",
-      "type": "fontSizes"
+    "font": {
+      "size": {
+        "sm": {
+          "value": "15px",
+          "type": "fontSizes"
+        },
+        "md": {
+          "value": "18px",
+          "type": "fontSizes"
+        },
+        "lg": {
+          "value": "24px",
+          "type": "fontSizes"
+        },
+        "xl": {
+          "value": "36px",
+          "type": "fontSizes"
+        }
+      }
     },
     "color": {
       "neutral": {
@@ -76,16 +80,6 @@
         "500": {
           "value": "#1F71BC",
           "type": "color"
-        }
-      }
-    },
-    "font": {
-      "label": {
-        "size": {
-          "default": {
-            "value": "{font-size-sm}",
-            "type": "fontSizes"
-          }
         }
       }
     },

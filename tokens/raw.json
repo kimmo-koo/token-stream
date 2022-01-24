@@ -53,14 +53,20 @@
       "value": "16px",
       "type": "spacing"
     },
-    "color-textinput": {
-      "background-default": {
-        "value": "{color-neutral-100}",
-        "type": "color"
-      },
-      "text-default": {
-        "value": "{color-neutral-900}",
-        "type": "color"
+    "color": {
+      "textinput": {
+        "background": {
+          "default": {
+            "value": "{color-neutral-100}",
+            "type": "color"
+          }
+        },
+        "text": {
+          "default": {
+            "value": "{color-neutral-900}",
+            "type": "color"
+          }
+        }
       }
     }
   },

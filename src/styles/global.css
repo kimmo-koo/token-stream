@@ -1,12 +1,7 @@
 :root {
-  --spacing-sm: 8px;
-  --spacing-md: 16px;
-  --spacing-lg: 24px;
-  --spacing-xl: 36px;
-  --spacing-xs: 4px;
+  --space-xs: 4px;
   --radii-full: 100%;
   --radii-sharp: 2px;
-  --font-heading-weight-one: medium;
   --font-size-sm: 15px;
   --font-size-md: 18px;
   --font-size-lg: 24px;
@@ -15,4 +10,6 @@
   --color-neutral-500: #C4C9CA;
   --color-neutral-900: #444A4B;
   --radii-round: 8px;
+  --space-sm: 8px;
+  --space-md: 16px;
 }

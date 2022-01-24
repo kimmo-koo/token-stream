@@ -73,7 +73,7 @@
         }
       }
     },
-    "inputlabel": {
+    "label": {
       "text": {
         "default": {
           "value": "#444A4B",
@@ -89,5 +89,15 @@
   "space-xl": {
     "value": "24px",
     "type": "spacing"
+  },
+  "font": {
+    "label": {
+      "size": {
+        "default": {
+          "value": "15px",
+          "type": "fontSizes"
+        }
+      }
+    }
   }
 }

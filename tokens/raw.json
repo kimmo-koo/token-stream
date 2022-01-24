@@ -74,6 +74,14 @@
           }
         }
       }
+    },
+    "space-lg": {
+      "value": "20px",
+      "type": "spacing"
+    },
+    "space-xl": {
+      "value": "24px",
+      "type": "spacing"
     }
   },
   "brand-one": {

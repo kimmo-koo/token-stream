@@ -51,5 +51,11 @@
   "space-md": {
     "value": "16px",
     "type": "spacing"
+  },
+  "color-textinput": {
+    "background-primary-default": {
+      "value": "#F7F8F8",
+      "type": "color"
+    }
   }
 }

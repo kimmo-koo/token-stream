@@ -80,15 +80,19 @@
         "value": "#1F71BC",
         "type": "color"
       }
+    },
+    "cta": {
+      "background": {
+        "primary": {
+          "default": {
+            "value": "#1F71BC",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "cta": {
-    "background": {
-      "primary": {
-        "value": "#1F71BC",
-        "type": "color"
-      }
-    },
     "text": {
       "primary": {
         "value": "#ffffff",

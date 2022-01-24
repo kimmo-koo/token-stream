@@ -104,28 +104,26 @@
             "type": "color"
           }
         }
+      },
+      "text": {
+        "primary": {
+          "default": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "#1F71BC",
+            "type": "color"
+          }
+        }
       }
     },
     "basic": {
       "white": {
         "value": "#ffffff",
         "type": "color"
-      }
-    }
-  },
-  "cta": {
-    "text": {
-      "primary": {
-        "default": {
-          "value": "#ffffff",
-          "type": "color"
-        }
-      },
-      "secondary": {
-        "default": {
-          "value": "#1F71BC",
-          "type": "color"
-        }
       }
     }
   }

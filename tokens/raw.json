@@ -3,7 +3,7 @@
     "color": {
       "basic": {
         "black": {
-          "value": "#111111",
+          "value": "#000000",
           "type": "color"
         },
         "white": {

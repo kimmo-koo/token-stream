@@ -17,6 +17,8 @@
   --color-textinput-border-default: #f7f8f8;
   --color-textinput-border-hover: #c4c9ca;
   --color-label-text-default: #444a4b;
+  --color-cta-background-primary-default: #1f71bc;
+  --color-cta-text-primary-default: #ffffff;
   --radii-round: 8px;
   --space-sm: 8px;
   --space-md: 12px;

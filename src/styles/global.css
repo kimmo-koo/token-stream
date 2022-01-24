@@ -1,22 +1,17 @@
 :root {
-  --color-basic-black: #000000;
-  --color-basic-white: #ffffff;
-  --color-primary-100: #ffa500;
-  --color-primary-500: #3c9f9b;
-  --color-gray-100: #edeff1;
-  --color-gray-500: #d2d4d6;
-  --color-gray-900: #222426;
-  --color-cta-background-primary-default: #3c9f9b;
-  --color-cta-text-primary-default: #ffffff;
-  --color-inputfield-background-default: #edeff1;
-  --color-inputfield-border-default: #d2d4d6;
-  --spacing-sm: 8px;
-  --spacing-md: 16px;
-  --spacing-lg: 24px;
-  --spacing-xl: 36px;
-  --spacing-xs: 4px;
-  --radii-round: 100%;
-  --radii-default: 8px;
-  --font-heading-size-one: 48px;
-  --font-heading-weight-one: medium;
+  --space-xs: 4px;
+  --radii-full: 100%;
+  --radii-sharp: 2px;
+  --font-size-sm: 15px;
+  --font-size-md: 18px;
+  --font-size-lg: 24px;
+  --font-size-xl: 36px;
+  --color-neutral-100: #F7F8F8;
+  --color-neutral-500: #C4C9CA;
+  --color-neutral-900: #444A4B;
+  --radii-round: 8px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --color-textinput-background-default: #F7F8F8;
+  --color-textinput-text-default: #444A4B;
 }

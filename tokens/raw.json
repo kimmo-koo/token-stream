@@ -87,6 +87,24 @@
             "type": "color"
           }
         }
+      },
+      "cta": {
+        "background": {
+          "primary": {
+            "default": {
+              "value": "#1F71BC",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "primary": {
+            "default": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "radii-round": {

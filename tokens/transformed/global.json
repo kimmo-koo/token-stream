@@ -12,7 +12,7 @@
     },
     "primary": {
       "100": {
-        "value": "#C9F2F0",
+        "value": "orange",
         "type": "color"
       },
       "500": {

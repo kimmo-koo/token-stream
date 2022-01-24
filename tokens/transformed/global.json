@@ -99,5 +99,9 @@
         }
       }
     }
+  },
+  "color-neutral-700": {
+    "value": "#8C9597",
+    "type": "color"
   }
 }

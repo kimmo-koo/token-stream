@@ -66,6 +66,12 @@
             "value": "{color-neutral-900}",
             "type": "color"
           }
+        },
+        "border": {
+          "default": {
+            "value": "{color-neutral-500}",
+            "type": "color"
+          }
         }
       }
     }

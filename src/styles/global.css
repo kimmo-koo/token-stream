@@ -1,7 +1,12 @@
 :root {
   --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+  --space-lg: 20px;
+  --space-xl: 24px;
   --radii-full: 100%;
   --radii-sharp: 2px;
+  --radii-round: 8px;
   --font-size-sm: 15px;
   --font-size-md: 18px;
   --font-size-lg: 24px;
@@ -11,11 +16,7 @@
   --color-neutral-700: #8c9597;
   --color-neutral-900: #444a4b;
   --color-primary-500: #1f71bc;
-  --radii-round: 8px;
-  --space-sm: 8px;
-  --space-md: 12px;
-  --space-lg: 20px;
-  --space-xl: 24px;
   --font-label-size-default: 15px;
   --cta-background-primary: #1F71BC;
+  --cta-text-primary: #ffffff;
 }

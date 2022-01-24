@@ -28,17 +28,61 @@
     "value": "36px",
     "type": "fontSizes"
   },
-  "color-neutral-100": {
-    "value": "#F7F8F8",
-    "type": "color"
-  },
-  "color-neutral-500": {
-    "value": "#C4C9CA",
-    "type": "color"
-  },
-  "color-neutral-900": {
-    "value": "#444A4B",
-    "type": "color"
+  "color": {
+    "neutral": {
+      "100": {
+        "value": "#F7F8F8",
+        "type": "color"
+      },
+      "500": {
+        "value": "#C4C9CA",
+        "type": "color"
+      },
+      "700": {
+        "value": "#8C9597",
+        "type": "color"
+      },
+      "900": {
+        "value": "#444A4B",
+        "type": "color"
+      }
+    },
+    "textinput": {
+      "background": {
+        "default": {
+          "value": "#F7F8F8",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "text": {
+        "default": {
+          "value": "#8C9597",
+          "type": "color"
+        },
+        "hover": {
+          "value": "#444A4B",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "#F7F8F8",
+          "type": "color"
+        }
+      }
+    },
+    "label": {
+      "text": {
+        "default": {
+          "value": "#444A4B",
+          "type": "color"
+        }
+      }
+    }
   },
   "radii-round": {
     "value": "8px",
@@ -49,17 +93,25 @@
     "type": "spacing"
   },
   "space-md": {
-    "value": "16px",
+    "value": "12px",
     "type": "spacing"
   },
-  "color-textinput": {
-    "background-default": {
-      "value": "#F7F8F8",
-      "type": "color"
-    },
-    "text-default": {
-      "value": "#444A4B",
-      "type": "color"
+  "space-lg": {
+    "value": "20px",
+    "type": "spacing"
+  },
+  "space-xl": {
+    "value": "24px",
+    "type": "spacing"
+  },
+  "font": {
+    "label": {
+      "size": {
+        "default": {
+          "value": "15px",
+          "type": "fontSizes"
+        }
+      }
     }
   }
 }

@@ -70,27 +70,21 @@
         }
       }
     },
-    "spacing": {
-      "sm": {
-        "value": "8px",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "16px",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "24px",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "36px",
-        "type": "spacing"
-      },
-      "xs": {
-        "value": "4px",
-        "type": "spacing"
-      }
+    "space-sm": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "space-md": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "space-lg": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "space-xl": {
+      "value": "36px",
+      "type": "spacing"
     },
     "radii": {
       "round": {
@@ -128,6 +122,10 @@
     "font-size-xl": {
       "value": "36px",
       "type": "fontSizes"
+    },
+    "space-xs": {
+      "value": "4px",
+      "type": "spacing"
     }
   },
   "brand-one": {

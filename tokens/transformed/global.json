@@ -21,16 +21,14 @@
       "type": "spacing"
     }
   },
-  "radii": {
-    "round": {
-      "value": "100%",
-      "description": "",
-      "type": "borderRadius"
-    },
-    "default": {
-      "value": "8px",
-      "type": "borderRadius"
-    }
+  "radii-full": {
+    "value": "100%",
+    "description": "",
+    "type": "borderRadius"
+  },
+  "radii-sharp": {
+    "value": "2px",
+    "type": "borderRadius"
   },
   "font": {
     "heading": {
@@ -69,5 +67,9 @@
   "color-neutral-900": {
     "value": "#444A4B",
     "type": "color"
+  },
+  "radii-round": {
+    "value": "8px",
+    "type": "borderRadius"
   }
 }

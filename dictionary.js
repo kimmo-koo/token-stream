@@ -15,7 +15,8 @@ function getStyleDictionaryConfig(brand) {
           "destination": `${brand}.css`,
           "format": "css/variables",
           "options": {
-            "selector": (brand !== 'global') ? `.${brand}` : false 
+            selector: (brand !== 'global') ? `.${brand}` : false,
+            showFileHeader: false
           }
         }]
       }

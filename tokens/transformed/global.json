@@ -104,12 +104,6 @@
   },
   "font": {
     "heading": {
-      "size": {
-        "one": {
-          "value": "48px",
-          "type": "fontSizes"
-        }
-      },
       "weight": {
         "one": {
           "value": "medium",
@@ -117,5 +111,21 @@
         }
       }
     }
+  },
+  "font-size-sm": {
+    "value": "15px",
+    "type": "fontSizes"
+  },
+  "font-size-md": {
+    "value": "18px",
+    "type": "fontSizes"
+  },
+  "font-size-lg": {
+    "value": "24px",
+    "type": "fontSizes"
+  },
+  "font-size-xl": {
+    "value": "36px",
+    "type": "fontSizes"
   }
 }

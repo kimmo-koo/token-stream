@@ -17,6 +17,9 @@
   --spacing-xs: 4px;
   --radii-round: 100%;
   --radii-default: 8px;
-  --font-heading-size-one: 48px;
   --font-heading-weight-one: medium;
+  --font-size-sm: 15px;
+  --font-size-md: 18px;
+  --font-size-lg: 24px;
+  --font-size-xl: 36px;
 }

@@ -72,6 +72,10 @@
         "default": {
           "value": "#F7F8F8",
           "type": "color"
+        },
+        "hover": {
+          "value": "#C4C9CA",
+          "type": "color"
         }
       }
     },

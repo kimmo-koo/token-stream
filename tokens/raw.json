@@ -73,6 +73,10 @@
           "default": {
             "value": "{color.neutral.100}",
             "type": "color"
+          },
+          "hover": {
+            "value": "{color.neutral.500}",
+            "type": "color"
           }
         }
       },

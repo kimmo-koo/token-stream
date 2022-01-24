@@ -17,5 +17,9 @@
   --color-neutral-900: #444a4b;
   --color-primary-500: #1f71bc;
   --color-cta-background-primary-default: #1f71bc;
+  --color-cta-background-secondary-default: #ffffff;
+  --color-cta-border-secondary-default: #1f71bc;
+  --color-basic-white: #ffffff;
   --cta-text-primary-default: #ffffff;
+  --cta-text-secondary-default: #1F71BC;
 }

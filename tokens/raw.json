@@ -73,6 +73,14 @@
             "type": "color"
           }
         }
+      },
+      "inputlabel": {
+        "text": {
+          "default": {
+            "value": "{color-neutral-900}",
+            "type": "color"
+          }
+        }
       }
     },
     "space-lg": {

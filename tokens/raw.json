@@ -54,8 +54,12 @@
       "type": "spacing"
     },
     "color-textinput": {
-      "background-primary-default": {
+      "background-default": {
         "value": "{color-neutral-100}",
+        "type": "color"
+      },
+      "text-default": {
+        "value": "{color-neutral-900}",
         "type": "color"
       }
     }

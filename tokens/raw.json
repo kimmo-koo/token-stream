@@ -74,7 +74,7 @@
           }
         }
       },
-      "inputlabel": {
+      "label": {
         "text": {
           "default": {
             "value": "{color-neutral-900}",
@@ -90,6 +90,16 @@
     "space-xl": {
       "value": "24px",
       "type": "spacing"
+    },
+    "font": {
+      "label": {
+        "size": {
+          "default": {
+            "value": "{font-size-sm}",
+            "type": "fontSizes"
+          }
+        }
+      }
     }
   },
   "brand-one": {

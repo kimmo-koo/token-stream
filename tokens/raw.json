@@ -18,7 +18,7 @@
         "type": "spacing"
       },
       "xl": {
-        "value": "24px",
+        "value": "36px",
         "type": "spacing"
       }
     },
@@ -89,15 +89,44 @@
               "value": "{color.primary.500}",
               "type": "color"
             }
+          },
+          "secondary": {
+            "default": {
+              "value": "#ffffff",
+              "description": "",
+              "type": "color"
+            }
           }
+        },
+        "border": {
+          "secondary": {
+            "default": {
+              "value": "{color.primary.500}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "basic": {
+        "white": {
+          "value": "#ffffff",
+          "type": "color"
         }
       }
     },
     "cta": {
       "text": {
         "primary": {
-          "value": "#ffffff",
-          "type": "color"
+          "default": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "{color.primary.500}",
+            "type": "color"
+          }
         }
       }
     }

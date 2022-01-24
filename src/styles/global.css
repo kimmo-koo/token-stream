@@ -3,7 +3,7 @@
   --space-sm: 8px;
   --space-md: 12px;
   --space-lg: 20px;
-  --space-xl: 24px;
+  --space-xl: 36px;
   --radii-full: 100%;
   --radii-sharp: 2px;
   --radii-round: 8px;
@@ -17,5 +17,9 @@
   --color-neutral-900: #444a4b;
   --color-primary-500: #1f71bc;
   --color-cta-background-primary-default: #1f71bc;
-  --cta-text-primary: #ffffff;
+  --color-cta-background-secondary-default: #ffffff;
+  --color-cta-border-secondary-default: #1f71bc;
+  --color-basic-white: #ffffff;
+  --cta-text-primary-default: #ffffff;
+  --cta-text-secondary-default: #1F71BC;
 }

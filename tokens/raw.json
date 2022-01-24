@@ -69,7 +69,7 @@
         },
         "border": {
           "default": {
-            "value": "{color-neutral-500}",
+            "value": "{color-neutral-100}",
             "type": "color"
           }
         }

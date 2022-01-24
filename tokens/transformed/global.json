@@ -65,6 +65,12 @@
           "value": "#444A4B",
           "type": "color"
         }
+      },
+      "border": {
+        "default": {
+          "value": "#C4C9CA",
+          "type": "color"
+        }
       }
     }
   }

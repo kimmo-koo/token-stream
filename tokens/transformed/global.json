@@ -1,0 +1,117 @@
+{
+  "color": {
+    "basic": {
+      "black": {
+        "value": "#111111",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "100": {
+        "value": "#F9D9B4",
+        "type": "color"
+      },
+      "500": {
+        "value": "#E83F0A",
+        "type": "color"
+      }
+    },
+    "gray": {
+      "100": {
+        "value": "#EDEFF1",
+        "type": "color"
+      },
+      "500": {
+        "value": "#C2C4C6",
+        "type": "color"
+      }
+    },
+    "cta": {
+      "background": {
+        "primary": {
+          "default": {
+            "value": "#E83F0A",
+            "type": "color",
+            "description": "Background color for primary CTAs."
+          }
+        }
+      },
+      "text": {
+        "primary": {
+          "default": {
+            "value": "#ffffff",
+            "description": "Text color for primary CTAs.",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "inputfield": {
+      "background": {
+        "default": {
+          "value": "#EDEFF1",
+          "type": "color"
+        }
+      },
+      "border": {
+        "default": {
+          "value": "#C2C4C6",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "spacing": {
+    "sm": {
+      "value": "8px",
+      "type": "spacing"
+    },
+    "md": {
+      "value": "16px",
+      "type": "spacing"
+    },
+    "lg": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "xl": {
+      "value": "36px",
+      "type": "spacing"
+    },
+    "xs": {
+      "value": "4px",
+      "type": "spacing"
+    }
+  },
+  "radii": {
+    "round": {
+      "value": "100%",
+      "description": "",
+      "type": "borderRadius"
+    },
+    "default": {
+      "value": "8px",
+      "type": "borderRadius"
+    }
+  },
+  "font": {
+    "heading": {
+      "size": {
+        "one": {
+          "value": "48px",
+          "type": "fontSizes"
+        }
+      },
+      "weight": {
+        "one": {
+          "value": "medium",
+          "type": "fontWeights"
+        }
+      }
+    }
+  }
+}

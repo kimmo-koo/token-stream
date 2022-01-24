@@ -10,11 +10,10 @@
   --color-cta-text-primary-default: #ffffff;
   --color-inputfield-background-default: #edeff1;
   --color-inputfield-border-default: #d2d4d6;
-  --spacing-sm: 8px;
-  --spacing-md: 16px;
-  --spacing-lg: 24px;
-  --spacing-xl: 36px;
-  --spacing-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 36px;
   --radii-round: 100%;
   --radii-default: 8px;
   --font-heading-weight-one: medium;
@@ -22,4 +21,5 @@
   --font-size-md: 18px;
   --font-size-lg: 24px;
   --font-size-xl: 36px;
+  --space-xs: 4px;
 }

@@ -13,11 +13,11 @@
       },
       "primary": {
         "100": {
-          "value": "#F9D9B4",
+          "value": "#C9F2F0",
           "type": "color"
         },
         "500": {
-          "value": "#E83F0A",
+          "value": "#31ADA6",
           "type": "color"
         }
       },

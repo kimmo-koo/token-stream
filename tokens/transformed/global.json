@@ -95,8 +95,10 @@
   "cta": {
     "text": {
       "primary": {
-        "value": "#ffffff",
-        "type": "color"
+        "default": {
+          "value": "#ffffff",
+          "type": "color"
+        }
       }
     }
   }

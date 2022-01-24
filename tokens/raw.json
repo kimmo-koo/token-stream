@@ -48,62 +48,10 @@
           "type": "color"
         }
       },
-      "textinput": {
-        "background": {
-          "default": {
-            "value": "{color.neutral.100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "#ffffff",
-            "type": "color"
-          }
-        },
-        "text": {
-          "default": {
-            "value": "{color.neutral.700}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.neutral.900}",
-            "type": "color"
-          }
-        },
-        "border": {
-          "default": {
-            "value": "{color.neutral.100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.neutral.500}",
-            "type": "color"
-          }
-        }
-      },
-      "label": {
-        "text": {
-          "default": {
-            "value": "{color.neutral.900}",
-            "type": "color"
-          }
-        }
-      },
-      "cta": {
-        "background": {
-          "primary": {
-            "default": {
-              "value": "#1F71BC",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "primary": {
-            "default": {
-              "value": "#ffffff",
-              "type": "color"
-            }
-          }
+      "primary": {
+        "500": {
+          "value": "#1F71BC",
+          "type": "color"
         }
       }
     },
@@ -134,6 +82,14 @@
             "value": "{font-size-sm}",
             "type": "fontSizes"
           }
+        }
+      }
+    },
+    "cta": {
+      "background": {
+        "primary": {
+          "value": "{color.primary.500}",
+          "type": "color"
         }
       }
     }

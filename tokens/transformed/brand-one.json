@@ -4,7 +4,7 @@
       "background": {
         "primary": {
           "default": {
-            "value": "#096198",
+            "value": "#9F3C84",
             "description": "Background color for primary CTAs.",
             "type": "color"
           }

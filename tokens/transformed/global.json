@@ -52,10 +52,18 @@
         "default": {
           "value": "#F7F8F8",
           "type": "color"
+        },
+        "hover": {
+          "value": "#ffffff",
+          "type": "color"
         }
       },
       "text": {
         "default": {
+          "value": "#8C9597",
+          "type": "color"
+        },
+        "hover": {
           "value": "#444A4B",
           "type": "color"
         }

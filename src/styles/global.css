@@ -11,7 +11,9 @@
   --color-neutral-700: #8c9597;
   --color-neutral-900: #444a4b;
   --color-textinput-background-default: #f7f8f8;
-  --color-textinput-text-default: #444a4b;
+  --color-textinput-background-hover: #ffffff;
+  --color-textinput-text-default: #8c9597;
+  --color-textinput-text-hover: #444a4b;
   --color-textinput-border-default: #f7f8f8;
   --color-label-text-default: #444a4b;
   --radii-round: 8px;

@@ -73,6 +73,10 @@
       "900": {
         "value": "#444A4B",
         "type": "color"
+      },
+      "1000": {
+        "value": "#111111",
+        "type": "color"
       }
     },
     "primary": {

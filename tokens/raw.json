@@ -77,6 +77,10 @@
         }
       },
       "primary": {
+        "100": {
+          "value": "#E6EDF5",
+          "type": "color"
+        },
         "500": {
           "value": "#1F71BC",
           "type": "color"

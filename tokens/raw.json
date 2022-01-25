@@ -84,10 +84,6 @@
         "500": {
           "value": "#1F71BC",
           "type": "color"
-        },
-        "1000": {
-          "value": "black",
-          "type": "color"
         }
       },
       "cta": {

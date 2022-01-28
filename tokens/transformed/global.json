@@ -19,6 +19,10 @@
     "xl": {
       "value": "36px",
       "type": "spacing"
+    },
+    "2xl": {
+      "value": "72px",
+      "type": "spacing"
     }
   },
   "radii": {

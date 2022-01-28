@@ -90,47 +90,8 @@
           "type": "color"
         },
         "900": {
-          "value": "#D50CF6",
+          "value": "#184267",
           "type": "color"
-        }
-      },
-      "cta": {
-        "background": {
-          "primary": {
-            "default": {
-              "value": "{color.primary.500}",
-              "type": "color"
-            }
-          },
-          "secondary": {
-            "default": {
-              "value": "#ffffff",
-              "description": "",
-              "type": "color"
-            }
-          }
-        },
-        "border": {
-          "secondary": {
-            "default": {
-              "value": "{color.primary.500}",
-              "type": "color"
-            }
-          }
-        },
-        "text": {
-          "primary": {
-            "default": {
-              "value": "#ffffff",
-              "type": "color"
-            }
-          },
-          "secondary": {
-            "default": {
-              "value": "{color.primary.500}",
-              "type": "color"
-            }
-          }
         }
       },
       "basic": {

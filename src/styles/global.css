@@ -11,6 +11,7 @@
   --font-size-md: 18px;
   --font-size-lg: 24px;
   --font-size-xl: 36px;
+  --font-weight-bold: bold;
   --color-neutral-100: #f3f4f5;
   --color-neutral-500: #c4c9ca;
   --color-neutral-700: #8c9597;
@@ -20,5 +21,4 @@
   --color-primary-500: #1f71bc;
   --color-primary-900: #184267;
   --color-basic-white: #ffffff;
-  --weight-bold: bold;
 }

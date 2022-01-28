@@ -100,6 +100,12 @@
           "type": "color"
         }
       }
+    },
+    "weight": {
+      "bold": {
+        "value": "bold",
+        "type": "fontWeights"
+      }
     }
   },
   "brand-one": {

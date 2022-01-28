@@ -1,23 +1,9 @@
 {
   "color": {
-    "cta": {
-      "background": {
-        "primary": {
-          "default": {
-            "value": "#9F3C84",
-            "description": "Background color for primary CTAs.",
-            "type": "color"
-          }
-        }
-      },
-      "text": {
-        "primary": {
-          "default": {
-            "value": "#ffffff",
-            "description": "Text color for primary CTAs.",
-            "type": "color"
-          }
-        }
+    "primary": {
+      "500": {
+        "value": "#B30202",
+        "type": "color"
       }
     }
   }

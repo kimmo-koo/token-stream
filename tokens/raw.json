@@ -110,6 +110,19 @@
           "type": "color"
         }
       }
+    },
+    "shadow": {
+      "card": {
+        "value": {
+          "x": "0",
+          "y": "0",
+          "blur": "48",
+          "spread": "0",
+          "color": "rgba(0,0,0,0.1)",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "brand-one": {

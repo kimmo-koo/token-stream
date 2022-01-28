@@ -55,6 +55,12 @@
           "value": "36px",
           "type": "fontSizes"
         }
+      },
+      "weight": {
+        "bold": {
+          "value": "bold",
+          "type": "fontWeights"
+        }
       }
     },
     "color": {
@@ -99,12 +105,6 @@
           "value": "#ffffff",
           "type": "color"
         }
-      }
-    },
-    "weight": {
-      "bold": {
-        "value": "bold",
-        "type": "fontWeights"
       }
     }
   },

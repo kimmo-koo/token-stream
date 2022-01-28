@@ -110,17 +110,15 @@
       }
     }
   },
-  "shadow": {
-    "card": {
-      "value": {
-        "x": 0,
-        "y": 0,
-        "blur": 48,
-        "spread": 0,
-        "color": "#0000001a",
-        "type": "dropShadow"
-      },
-      "type": "boxShadow"
-    }
+  "card": {
+    "value": {
+      "x": 0,
+      "y": 0,
+      "blur": 48,
+      "spread": 0,
+      "color": "#0000001a",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }

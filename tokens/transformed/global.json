@@ -64,6 +64,12 @@
         "value": "bold",
         "type": "fontWeights"
       }
+    },
+    "family": {
+      "sans": {
+        "value": "Roboto",
+        "type": "fontFamilies"
+      }
     }
   },
   "color": {

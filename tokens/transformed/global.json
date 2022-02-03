@@ -101,7 +101,7 @@
         "type": "color"
       },
       "500": {
-        "value": "#146807",
+        "value": "red",
         "type": "color"
       },
       "900": {

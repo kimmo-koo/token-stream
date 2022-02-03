@@ -22,7 +22,7 @@
         "type": "spacing"
       },
       "2xl": {
-        "value": "72px",
+        "value": "48px",
         "type": "spacing"
       }
     },

@@ -4,7 +4,7 @@
   --space-md: 12px;
   --space-lg: 20px;
   --space-xl: 36px;
-  --space-2xl: 72px;
+  --space-2xl: 48px;
   --radii-full: 100%;
   --radii-sharp: 2px;
   --radii-round: 8px;
@@ -19,7 +19,7 @@
   --color-neutral-900: #444a4b;
   --color-neutral-1000: #111111;
   --color-primary-100: #e6edf5;
-  --color-primary-500: #1f71bc;
+  --color-primary-500: #ae0589;
   --color-primary-900: #184267;
   --color-basic-white: #ffffff;
   --card: [object Object];

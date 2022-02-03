@@ -101,7 +101,7 @@
         "type": "color"
       },
       "500": {
-        "value": "#AE0589",
+        "value": "red",
         "type": "color"
       },
       "900": {

@@ -36,7 +36,7 @@
       "type": "borderRadius"
     },
     "round": {
-      "value": "8px",
+      "value": "16px",
       "type": "borderRadius"
     }
   },
@@ -128,9 +128,9 @@
     "value": {
       "x": 0,
       "y": 0,
-      "blur": 48,
+      "blur": 24,
       "spread": 0,
-      "color": "#0000001a",
+      "color": "#0000000d",
       "type": "dropShadow"
     },
     "type": "boxShadow"

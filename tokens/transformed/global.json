@@ -1,26 +1,26 @@
 {
-  "space": {
-    "xs": {
+  "spacing": {
+    "100": {
       "value": "4px",
       "type": "spacing"
     },
-    "sm": {
+    "200": {
       "value": "8px",
       "type": "spacing"
     },
-    "md": {
+    "300": {
       "value": "12px",
       "type": "spacing"
     },
-    "lg": {
+    "400": {
       "value": "20px",
       "type": "spacing"
     },
-    "xl": {
+    "500": {
       "value": "36px",
       "type": "spacing"
     },
-    "2xl": {
+    "600": {
       "value": "48px",
       "type": "spacing"
     }
@@ -75,37 +75,37 @@
   "color": {
     "neutral": {
       "100": {
-        "value": "#F3F4F5",
+        "value": "#f3f3f3",
         "type": "color"
       },
       "500": {
-        "value": "#C4C9CA",
+        "value": "#c5c5c5",
         "type": "color"
       },
       "700": {
-        "value": "#8C9597",
+        "value": "#9a9a9a",
         "type": "color"
       },
       "900": {
-        "value": "#444A4B",
+        "value": "#666666",
         "type": "color"
       },
       "1000": {
-        "value": "#111111",
+        "value": "#333333",
         "type": "color"
       }
     },
     "primary": {
       "100": {
-        "value": "#E6EDF5",
+        "value": "#FD9999",
         "type": "color"
       },
       "500": {
-        "value": "#983BF5",
+        "value": "#E44646",
         "type": "color"
       },
       "900": {
-        "value": "#184267",
+        "value": "#8A1E1E",
         "type": "color"
       }
     },

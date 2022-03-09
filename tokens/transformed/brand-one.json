@@ -32,11 +32,11 @@
       "type": "borderRadius"
     },
     "sharp": {
-      "value": "2px",
+      "value": "0px",
       "type": "borderRadius"
     },
     "round": {
-      "value": "8px",
+      "value": "2px",
       "type": "borderRadius"
     }
   },
@@ -79,23 +79,23 @@
   "color": {
     "neutral": {
       "100": {
-        "value": "#f3f3f3",
+        "value": "#f3f3ff",
         "type": "color"
       },
       "500": {
-        "value": "#c5c5c5",
+        "value": "#c5c5d5",
         "type": "color"
       },
       "700": {
-        "value": "#9a9a9a",
+        "value": "#9a9aaa",
         "type": "color"
       },
       "900": {
-        "value": "#666666",
+        "value": "#666676",
         "type": "color"
       },
       "1000": {
-        "value": "#333333",
+        "value": "#333343",
         "type": "color"
       }
     },

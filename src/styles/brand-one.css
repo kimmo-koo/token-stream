@@ -6,8 +6,8 @@
   --spacing-500: 36px;
   --spacing-600: 48px;
   --radii-full: 100%;
-  --radii-sharp: 2px;
-  --radii-round: 8px;
+  --radii-sharp: 0px;
+  --radii-round: 2px;
   --font-size-100: 15px;
   --font-size-200: 18px;
   --font-size-300: 24px;
@@ -15,11 +15,11 @@
   --font-weight-bold: bold;
   --font-weight-regular: regular;
   --font-family-sans: Roboto;
-  --color-neutral-100: #f3f3f3;
-  --color-neutral-500: #c5c5c5;
-  --color-neutral-700: #9a9a9a;
-  --color-neutral-900: #666666;
-  --color-neutral-1000: #333333;
+  --color-neutral-100: #f3f3ff;
+  --color-neutral-500: #c5c5d5;
+  --color-neutral-700: #9a9aaa;
+  --color-neutral-900: #666676;
+  --color-neutral-1000: #333343;
   --color-primary-100: #99a3fd;
   --color-primary-500: #4656e4;
   --color-primary-900: #1e298a;

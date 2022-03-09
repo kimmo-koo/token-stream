@@ -61,7 +61,7 @@
     },
     "weight": {
       "bold": {
-        "value": "bold",
+        "value": "Bold",
         "type": "fontWeights"
       },
       "regular": {

@@ -1,10 +1,138 @@
 {
+  "spacing": {
+    "100": {
+      "value": "6px",
+      "type": "spacing"
+    },
+    "200": {
+      "value": "12px",
+      "type": "spacing"
+    },
+    "300": {
+      "value": "18px",
+      "type": "spacing"
+    },
+    "400": {
+      "value": "24px",
+      "type": "spacing"
+    },
+    "500": {
+      "value": "40px",
+      "type": "spacing"
+    },
+    "600": {
+      "value": "48px",
+      "type": "spacing"
+    }
+  },
+  "radii": {
+    "full": {
+      "value": "100%",
+      "description": "",
+      "type": "borderRadius"
+    },
+    "sharp": {
+      "value": "0px",
+      "type": "borderRadius"
+    },
+    "round": {
+      "value": "2px",
+      "type": "borderRadius"
+    }
+  },
+  "font": {
+    "size": {
+      "100": {
+        "value": "15px",
+        "type": "fontSizes"
+      },
+      "200": {
+        "value": "18px",
+        "type": "fontSizes"
+      },
+      "300": {
+        "value": "24px",
+        "type": "fontSizes"
+      },
+      "400": {
+        "value": "36px",
+        "type": "fontSizes"
+      }
+    },
+    "weight": {
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "regular",
+        "type": "fontWeights"
+      }
+    },
+    "family": {
+      "sans": {
+        "value": "Inter",
+        "type": "fontFamilies"
+      }
+    }
+  },
   "color": {
-    "primary": {
+    "neutral": {
+      "100": {
+        "value": "#f3f3ff",
+        "type": "color"
+      },
       "500": {
-        "value": "#B30202",
+        "value": "#c5c5d5",
+        "type": "color"
+      },
+      "700": {
+        "value": "#9a9aaa",
+        "type": "color"
+      },
+      "900": {
+        "value": "#666676",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#333343",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "100": {
+        "value": "#99A3FD",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4656E4",
+        "type": "color"
+      },
+      "900": {
+        "value": "#1E298A",
+        "type": "color"
+      }
+    },
+    "basic": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
         "type": "color"
       }
     }
+  },
+  "card": {
+    "value": {
+      "x": 0,
+      "y": 0,
+      "blur": 48,
+      "spread": 0,
+      "color": "#0000001a",
+      "type": "dropShadow"
+    },
+    "type": "boxShadow"
   }
 }

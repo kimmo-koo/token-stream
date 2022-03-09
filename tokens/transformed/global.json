@@ -42,19 +42,19 @@
   },
   "font": {
     "size": {
-      "sm": {
+      "100": {
         "value": "15px",
         "type": "fontSizes"
       },
-      "md": {
+      "200": {
         "value": "18px",
         "type": "fontSizes"
       },
-      "lg": {
+      "300": {
         "value": "24px",
         "type": "fontSizes"
       },
-      "xl": {
+      "400": {
         "value": "36px",
         "type": "fontSizes"
       }
@@ -112,6 +112,10 @@
     "basic": {
       "white": {
         "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#000000",
         "type": "color"
       }
     }

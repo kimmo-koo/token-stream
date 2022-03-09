@@ -8,10 +8,10 @@
   --radii-full: 100%;
   --radii-sharp: 2px;
   --radii-round: 8px;
-  --font-size-sm: 15px;
-  --font-size-md: 18px;
-  --font-size-lg: 24px;
-  --font-size-xl: 36px;
+  --font-size-100: 15px;
+  --font-size-200: 18px;
+  --font-size-300: 24px;
+  --font-size-400: 36px;
   --font-weight-bold: bold;
   --font-family-sans: Roboto;
   --color-neutral-100: #f3f3f3;
@@ -23,5 +23,6 @@
   --color-primary-500: #e44646;
   --color-primary-900: #8a1e1e;
   --color-basic-white: #ffffff;
+  --color-basic-black: #000000;
   --card: [object Object];
 }

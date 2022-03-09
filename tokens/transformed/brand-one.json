@@ -101,15 +101,15 @@
     },
     "primary": {
       "100": {
-        "value": "#FD9999",
+        "value": "#99A3FD",
         "type": "color"
       },
       "500": {
-        "value": "#E44646",
+        "value": "#4656E4",
         "type": "color"
       },
       "900": {
-        "value": "#8A1E1E",
+        "value": "#1E298A",
         "type": "color"
       }
     },

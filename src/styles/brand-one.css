@@ -1,3 +1,29 @@
 .brand-one {
-  --color-primary-500: #b30202;
+  --spacing-100: 4px;
+  --spacing-200: 8px;
+  --spacing-300: 12px;
+  --spacing-400: 20px;
+  --spacing-500: 36px;
+  --spacing-600: 48px;
+  --radii-full: 100%;
+  --radii-sharp: 2px;
+  --radii-round: 8px;
+  --font-size-100: 15px;
+  --font-size-200: 18px;
+  --font-size-300: 24px;
+  --font-size-400: 36px;
+  --font-weight-bold: bold;
+  --font-weight-regular: regular;
+  --font-family-sans: Roboto;
+  --color-neutral-100: #f3f3f3;
+  --color-neutral-500: #c5c5c5;
+  --color-neutral-700: #9a9a9a;
+  --color-neutral-900: #666666;
+  --color-neutral-1000: #333333;
+  --color-primary-100: #fd9999;
+  --color-primary-500: #e44646;
+  --color-primary-900: #8a1e1e;
+  --color-basic-white: #ffffff;
+  --color-basic-black: #000000;
+  --card: [object Object];
 }

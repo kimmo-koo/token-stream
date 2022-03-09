@@ -63,6 +63,10 @@
       "bold": {
         "value": "bold",
         "type": "fontWeights"
+      },
+      "regular": {
+        "value": "regular",
+        "type": "fontWeights"
       }
     },
     "family": {

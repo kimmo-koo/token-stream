@@ -1,9 +1,9 @@
 .brand-one {
-  --spacing-100: 4px;
-  --spacing-200: 8px;
-  --spacing-300: 12px;
-  --spacing-400: 20px;
-  --spacing-500: 36px;
+  --spacing-100: 6px;
+  --spacing-200: 12px;
+  --spacing-300: 18px;
+  --spacing-400: 24px;
+  --spacing-500: 40px;
   --spacing-600: 48px;
   --radii-full: 100%;
   --radii-sharp: 0px;
@@ -14,7 +14,7 @@
   --font-size-400: 36px;
   --font-weight-bold: bold;
   --font-weight-regular: regular;
-  --font-family-sans: Roboto;
+  --font-family-sans: Inter;
   --color-neutral-100: #f3f3ff;
   --color-neutral-500: #c5c5d5;
   --color-neutral-700: #9a9aaa;

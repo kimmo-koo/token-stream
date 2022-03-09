@@ -1,23 +1,23 @@
 {
   "spacing": {
     "100": {
-      "value": "4px",
+      "value": "6px",
       "type": "spacing"
     },
     "200": {
-      "value": "8px",
-      "type": "spacing"
-    },
-    "300": {
       "value": "12px",
       "type": "spacing"
     },
+    "300": {
+      "value": "18px",
+      "type": "spacing"
+    },
     "400": {
-      "value": "20px",
+      "value": "24px",
       "type": "spacing"
     },
     "500": {
-      "value": "36px",
+      "value": "40px",
       "type": "spacing"
     },
     "600": {
@@ -71,7 +71,7 @@
     },
     "family": {
       "sans": {
-        "value": "Roboto",
+        "value": "Inter",
         "type": "fontFamilies"
       }
     }

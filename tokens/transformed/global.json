@@ -122,6 +122,16 @@
         "value": "#000000",
         "type": "color"
       }
+    },
+    "background": {
+      "cta": {
+        "primary": {
+          "default": {
+            "value": "#E44646",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "card": {

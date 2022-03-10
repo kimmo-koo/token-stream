@@ -25,5 +25,6 @@
   --color-primary-900: #1e298a;
   --color-basic-white: #ffffff;
   --color-basic-black: #000000;
-  --card: [object Object];
+  --color-background-cta-primary-default: #4656e4;
+  --shadow-card: [object Object];
 }

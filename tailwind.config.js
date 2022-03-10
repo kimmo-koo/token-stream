@@ -3,57 +3,50 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    spacing: {
+      '100': "var(--spacing-100)",
+      '200': "var(--spacing-200)",
+      '300': "var(--spacing-300)",
+      '400': "var(--spacing-400)",
+      '500': "var(--spacing-500)",
+      '600': "var(--spacing-600)",
+      'form' : '400px'
+    },
     colors: {
-      color: {
-        basic: {
-          'white': "var(--color-basic-white)",
-          'black': "var(--color-basic-black)"
-        },
-        gray: {
-          500: "var(--color-gray-500)"
-        },
-        primary: {
-          100: "var(--color-primary-100)",
-          500: "var(--color-primary-500)",
-        },
-        cta: {
-          background: {
-            primary: {
-              'default': "var(--color-cta-background-primary-default)"
-            }
-          },
-          text: {
-            primary: {
-              'default': "var(--color-cta-text-primary-default)"
-            }
-          }
-        },
-        inputfield: {
-          background: {
-            "default": "var(--color-inputfield-background-default)"
-          },
-          border: {
-            "default": "var(--color-inputfield-border-default)"
-          }
-        }
-      }
+      basic: {
+        "white": "var(--color-basic-white)",
+        "black": "var(--color-basic-black)"
+      },
+      neutral: {
+        100: "var(--color-neutral-100)",
+        500: "var(--color-neutral-500)",
+        700: "var(--color-neutral-700)",
+        900: "var(--color-neutral-900)",
+        1000: "var(--color-neutral-1000)"
+      },
+      primary: {
+        100: "var(--color-primary-100)",
+        500: "var(--color-primary-500)",
+        900: "var(--color-primary-900)"
+      },
     },
     borderRadius: {
-      default: "var(--radii-default)",
-      round: "var(--radii-round)"
+      "full": "var(--radii-full)",
+      "sharp": "var(--radii-sharp)",
+      "round": "var(--radii-round)"
     },
     fontSize: {
-      "font-heading-size-one": "var(--font-heading-size-one)"    
+      "100": "var(--font-size-100)",
+      "200": "var(--font-size-200)",
+      "300": "var(--font-size-300)",
+      "400": "var(--font-size-400)",
     },
     fontWeight: {
-      "font-heading-weight-one": "var(--font-heading-weight-one)"
+      "bold": "var(--font-weight-bold)",
+      "regular": "var(--font-weight-regular)"
     },
-    spacing: {
-      sm: "var(--spacing-sm)",
-      md: "var(--spacing-md)",
-      lg: "var(--spacing-lg)",
-      xl: "var(--spacing-xl)",  
-      400: "400px"
+    fontFamily: {
+      "sans": "var(--font-family-sans)"
     },
     extend: {
     },

@@ -40,6 +40,7 @@ module.exports = {
       "200": "var(--font-size-200)",
       "300": "var(--font-size-300)",
       "400": "var(--font-size-400)",
+      "500": "var(--font-size-500)",
     },
     fontWeight: {
       "bold": "var(--font-weight-bold)",

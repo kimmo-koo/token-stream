@@ -1,27 +1,28 @@
 import React from 'react'
 
-export enum CTASizes {
-    sm,
-    md,
-    lg
-}
-
-export enum CTATypes {
-    primary,
-    secondary
-}
-
 interface Props {
     label: string
-    type: CTATypes
-    size: CTASizes
+    type?: string
+    size?: string
 }
 
-export const CTA = ({ label, type = CTATypes.primary, size = CTASizes.lg }: Props) => {
+export const CTASizes:any = {
+    sm: "py-200 px-400 text-100",
+    md: 'py-300 px-500 text-200',
+    lg: "py-400 px-600 text-300"
+}
+
+export const CTATypes:any = {
+    'primary': 'bg-primary-500 text-basic-white rounded-round',
+    'secondary': 'bg-basic-white border-2 border-primary-500 text-primary-500 rounded-round'
+}
+
+export const CTA = ({ label, type = 'primary', size = 'lg' }: Props) => {
+
+    const sizeClassNames = CTASizes[size]
+    const typeClassNames = CTATypes[type]
 
     return (
-        <button className={`bg-primary-500 text-basic-white px-500 py-300 rounded-round hover:text-basic-white hover:bg-primary-100`}>
-            {label}
-        </button>
+        <button className={`${sizeClassNames} ${typeClassNames}`}>{label}</button>
     )
 }

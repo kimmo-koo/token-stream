@@ -57,6 +57,10 @@
       "400": {
         "value": "36px",
         "type": "fontSizes"
+      },
+      "500": {
+        "value": "36px",
+        "type": "fontSizes"
       }
     },
     "weight": {
@@ -122,16 +126,6 @@
         "value": "#000000",
         "type": "color"
       }
-    },
-    "background": {
-      "cta": {
-        "primary": {
-          "default": {
-            "value": "#4656E4",
-            "type": "color"
-          }
-        }
-      }
     }
   },
   "shadow": {
@@ -141,7 +135,7 @@
         "y": 0,
         "blur": 48,
         "spread": 0,
-        "color": "#0000001a",
+        "color": "#00000040",
         "type": "dropShadow"
       },
       "type": "boxShadow"

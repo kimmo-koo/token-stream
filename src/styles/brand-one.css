@@ -12,6 +12,7 @@
   --font-size-200: 18px;
   --font-size-300: 24px;
   --font-size-400: 36px;
+  --font-size-500: 36px;
   --font-weight-bold: Bold;
   --font-weight-regular: regular;
   --font-family-sans: Inter;
@@ -25,6 +26,5 @@
   --color-primary-900: #1e298a;
   --color-basic-white: #ffffff;
   --color-basic-black: #000000;
-  --color-background-cta-primary-default: #4656e4;
   --shadow-card: [object Object];
 }

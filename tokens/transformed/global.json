@@ -57,6 +57,10 @@
       "400": {
         "value": "36px",
         "type": "fontSizes"
+      },
+      "500": {
+        "value": "44px",
+        "type": "fontSizes"
       }
     },
     "weight": {
@@ -122,27 +126,19 @@
         "value": "#000000",
         "type": "color"
       }
-    },
-    "background": {
-      "cta": {
-        "primary": {
-          "default": {
-            "value": "#E44646",
-            "type": "color"
-          }
-        }
-      }
     }
   },
-  "card": {
-    "value": {
-      "x": 0,
-      "y": 0,
-      "blur": 24,
-      "spread": 0,
-      "color": "#0000000d",
-      "type": "dropShadow"
-    },
-    "type": "boxShadow"
+  "shadow": {
+    "card": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 24,
+        "spread": 0,
+        "color": "#0000001a",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }

@@ -7,7 +7,7 @@ import { SigninForm } from './SigninForm'
 function App() {
 
   return (
-    <div className="brand-one flex flex-col w-screen h-screen items-center justify-center">
+    <div className="flex flex-col w-screen h-screen items-center justify-center">
 
       <Card>
         <Heading level={1}>Sign in</Heading>

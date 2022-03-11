@@ -36,7 +36,7 @@
       "type": "borderRadius"
     },
     "round": {
-      "value": "8px",
+      "value": "16px",
       "type": "borderRadius"
     }
   },
@@ -109,7 +109,7 @@
         "type": "color"
       },
       "500": {
-        "value": "green",
+        "value": "red",
         "type": "color"
       },
       "900": {

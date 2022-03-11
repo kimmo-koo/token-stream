@@ -110,7 +110,7 @@
           "type": "color"
         },
         "500": {
-          "value": "#C63737",
+          "value": "green",
           "type": "color"
         },
         "900": {

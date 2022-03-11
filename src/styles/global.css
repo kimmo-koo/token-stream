@@ -7,7 +7,7 @@
   --spacing-600: 48px;
   --radii-full: 100%;
   --radii-sharp: 2px;
-  --radii-round: 16px;
+  --radii-round: 8px;
   --font-size-100: 15px;
   --font-size-200: 18px;
   --font-size-300: 24px;
@@ -22,7 +22,7 @@
   --color-neutral-900: #666666;
   --color-neutral-1000: #333333;
   --color-primary-100: #fd9999;
-  --color-primary-500: #e44646;
+  --color-primary-500: #008000;
   --color-primary-900: #8a1e1e;
   --color-basic-white: #ffffff;
   --color-basic-black: #000000;
